@@ -1,0 +1,40 @@
+body {
+    background-color: #ffa50066;
+}
+
+
+
+
+.card-header {
+    height: 29vh;
+    background-color: #ffa50066;
+    border: none;
+}
+
+button.btn.btn-primary {
+    margin: auto;
+    display: block;
+    width: 100%;
+    background-color: orangered;
+    border: none;
+}
+
+span.dashed {
+    outline-style: dashed;
+    margin-left: 3px;
+    padding: 3px;
+}
+
+.left-header {
+    margin-top: 25px;
+}
+
+img.bag {
+    position: absolute;
+    margin-left: 34px;
+}
+
+img.dance {
+    position: relative;
+    margin-left: -100px;
+}
